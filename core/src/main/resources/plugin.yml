@@ -8,5 +8,5 @@ softdepend: [NoteBlockAPI]
 commands:
   musicalmobs:
     usage: /musicalmobs
-    aliases: [mm]
+    aliases: [ms]
     description: Main Command of Musical Mobs
